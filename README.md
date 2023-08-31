@@ -3,6 +3,7 @@ Simple web - Game of Janken (rock, paper, and scissors) with simple Bootstrap &a
 
 <li>Javascript</li>
 <li>Bootstrap CDN Links</li>
+<br>
 
 ## PC Version
 ![pc](https://github.com/faisalyudiansah/Game-Web-Janken-Bootstrap-Simple/assets/142356615/b78747eb-2953-4ebc-a8b3-dd6e5dc1993a)
